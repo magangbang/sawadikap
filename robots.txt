@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magangbang.github.io/sawadikap/sitemap.xml
